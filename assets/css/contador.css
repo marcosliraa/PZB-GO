@@ -1,0 +1,23 @@
+.contador {
+
+    display: flex;
+    justify-content: center;
+}
+
+.contador__texto {
+
+    background-color: #1890FF;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    
+    font-weight: bold;
+    color: white;
+}
+
+@media (max-width: 420px) {
+
+    .contador__texto{
+
+        font-size: 0.8em;
+    }
+}
