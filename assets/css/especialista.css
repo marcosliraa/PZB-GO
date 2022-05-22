@@ -1,0 +1,25 @@
+.especialista {
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    display: flex;
+    padding: 1em;
+    text-align: start;
+
+}
+
+.img__especialista {
+
+    height: 10em;
+    margin-right: 1em;
+}
+
+.textos__especialistas {
+    
+    color: black;
+}
+
+.nome__especialista {
+
+    font-size: 1.5em;
+}
+
